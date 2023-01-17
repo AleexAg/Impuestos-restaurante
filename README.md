@@ -9,10 +9,10 @@ Un restaurante ofrece un descuento del 10% para consumos de hasta 100.00 y un de
 #Enuncaido 2:
 Debido a los excelentes resultados el restaurante desea amplicar sus ofertas de acuerdo a la siguiente escala de consumo, ver la tabla. Determinar el monto del descuento, el importe del imouesto y el importe a pagar.
 
-CONSUMO S/     Descuento(%)
+CONSUMO S/  --   Descuento(%)
 
-Hasta 100       10%
+Hasta 100   --    10%
 
-Mayor a 100     20%
+Mayor a 100  --   20%
 
-Mayor a 200     30%
+Mayor a 200  --   30%
